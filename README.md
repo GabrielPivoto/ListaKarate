@@ -47,3 +47,5 @@ Caso tenha clonado nosso projeto, execute:
 O Karate já gera um relatório de teste HTML. Assim que rodar os testes, procure por `HTML report: (paste into browser to view) | Karate version: 1.0.1` no seu terminal. Em seguida, copie a linha abaixo e cole no seu navegador.
 #
 
+### Logo retirada de:
+<a href="https://www.freepnglogos.com/pics/rick-and-morty">Rick And Morty from freepnglogos.com</a>
