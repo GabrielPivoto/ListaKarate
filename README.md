@@ -1,7 +1,12 @@
+<img align="right" width="420" height="429.5" src="https://toppng.com/uploads/preview/image-1-source-rick-and-morty-11562982914hmlrrghjuu.png">
+
 # Testes de API usando o Karate
 
-Este projeto foi desenvolvido para testar a API do [Rick and Morty](https://rickandmortyapi.com).  
-Feito por:
+Este projeto foi desenvolvido para testar a API do [Rick and Morty](https://rickandmortyapi.com). 
+
+<h4 align="center"> 
+	Autores :pencil2:
+</h4>
 
 <p align="center">
  <a href="https://github.com/DarlanAjlune">Darlan Borges Ajlune</a> •
