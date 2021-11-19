@@ -1,4 +1,4 @@
-<img align="right" width="420" height="429.5" src="https://www.freepnglogos.com/uploads/rick-and-morty-png/rick-and-morty-portal-shoes-white-clothing-zavvi-23.png">
+<img align="right" width="210" height="215" src="https://www.freepnglogos.com/uploads/rick-and-morty-png/rick-and-morty-portal-shoes-white-clothing-zavvi-23.png">
 
 # Testes de API usando o Karate
 
