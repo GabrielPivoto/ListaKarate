@@ -2,6 +2,7 @@ Feature: Executar testes funcionais na API de Rick and Morty
 
 Background: Executa antes de cada teste
     * def url_base = 'https://rickandmortyapi.com/api/'
+    
 @TestOne    
 Scenario: Verificar o retorno com sucesso da API com dados válidos de requisição
     Given url url_base
@@ -15,6 +16,7 @@ Scenario: Verificar o retorno com sucesso da API com dados inválidos de requisi
     And path 'character/115897'
     When method get
     Then status 404
+
 
 @TestThree
 Scenario: Verificar o retorno com sucesso da API com dados válidos de requisição e garantir que o retorno tem o JSON esperado para o personagem 115(name e species)
@@ -66,3 +68,6 @@ Scenario: Verificar o retorno com sucesso da API com dados válidos e garantir q
     Then status 200
     And match response.name == "Earth (C-137)"
     And match response.dimension == "Dimension C-137"
+
+
+
