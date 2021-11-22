@@ -1,7 +1,12 @@
+<img align="right" width="210" height="215" src="https://www.freepnglogos.com/uploads/rick-and-morty-png/rick-and-morty-portal-shoes-white-clothing-zavvi-23.png">
+
 # Testes de API usando o Karate
 
-Este projeto foi desenvolvido para testar a API do [Rick and Morty](https://rickandmortyapi.com).  
-Feito por:
+Este projeto foi desenvolvido para testar a API do [Rick and Morty](https://rickandmortyapi.com). 
+
+<h4 align="center"> 
+	Autores :pencil2:
+</h4>
 
 <p align="center">
  <a href="https://github.com/DarlanAjlune">Darlan Borges Ajlune</a> •
@@ -42,3 +47,5 @@ Caso tenha clonado nosso projeto, execute:
 O Karate já gera um relatório de teste HTML. Assim que rodar os testes, procure por `HTML report: (paste into browser to view) | Karate version: 1.0.1` no seu terminal. Em seguida, copie a linha abaixo e cole no seu navegador.
 #
 
+### Logo retirada de:
+<a href="https://www.freepnglogos.com/pics/rick-and-morty">Rick And Morty from freepnglogos.com</a>
