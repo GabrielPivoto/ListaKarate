@@ -16,20 +16,16 @@ Este projeto foi desenvolvido para testar a API do [Rick and Morty](https://rick
 #
 
 ## Sumário
-* [Testes realizados](#Testes-realizados)
 * [Pré-Requisitos](#Pré-requisitos)
-* [Criando o Ambiente de Desenvolvimento para seus Teste](#Ambiente-de-Dev)
+* [Criando o Ambiente de Desenvolvimento para seus Testes](#Ambiente-de-Dev)
 * [Como executar](#Como-executar)
 * [Relatório de testes](#Relatórios)
-
-#
-## Cenário de Teste :pencil: <a name="Testes-realizados"></a> 
-
+ 
 #
 ## Pré-requitos :white_check_mark: <a name="Pré-requisitos"></a>
 A abordagem que escolhemos necessita que o Maven esteja instalado em sua máquina. Para sistemas Windows seguir o passo a passo do [{Dicas de Java}](https://dicasdejava.com.br/como-instalar-o-maven-no-windows/).
 #
-## Criando o Ambiente de Desenvolvimento para seus Teste :white_check_mark: <a name="Ambiente-de-Dev"></a>
+## Criando o Ambiente de Desenvolvimento para seus Testes :white_check_mark: <a name="Ambiente-de-Dev"></a>
 Execute o comando abaixo no seu terminal, ele será responsável por criar o pom.xml e alguns testes padrão.  
 > mvn archetype:generate -DarchetypeGroupId=com.intuit.karate -DarchetypeArtifactId=karate-archetype -DarchetypeVersion=1.0.1 -DgroupId=teste.karate -DartifactId=teste_karate   
 
